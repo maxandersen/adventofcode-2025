@@ -17,3 +17,4 @@ So! This year I’m taking a hands-off approach: let the agents tackle Advent of
 **Current Standings:**
 
 - Day 1: 100% (Perfect run—AI did all the work!)
+- Day 2: 100% (No hints needed—AI solved both parts solo!)

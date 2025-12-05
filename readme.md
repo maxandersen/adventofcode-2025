@@ -19,3 +19,5 @@ So! This year I’m taking a hands-off approach: let the agents tackle Advent of
 - Day 1: 100% (Perfect run—AI did all the work!)
 - Day 2: 100% (No hints needed—AI solved both parts solo!)
 - Day 3: 100% (Did have to tell it not to choose python...)
+- Day 4: 100% (No hints needed—AI solved both parts solo!)
+- Day 5: 98%  (First part failed on parsing input, second part iterated large numbers so was not able to complete. In both cases just pointing out it was failing parsing and seemed stuck it reworked it and just worked)
